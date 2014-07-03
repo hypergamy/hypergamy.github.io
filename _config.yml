@@ -1,0 +1,25 @@
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygments
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            Estate
+tagline:          ''
+description:      ''
+url:              http://www.hypergamy.estate
+baseurl:          /
+
+author:
+  name:           'Rōnin'
+  url:            http://www.hypergamy.estate
+
+paginate:         5
+
+# Custom vars
+version:          0.1
+
+github:
+  repo:           https://github.com/hypergamy/hypergamy.github.io
