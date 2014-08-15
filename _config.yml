@@ -11,7 +11,7 @@ tagline:          ''
 description:      ''
 url:              http://www.hypergamy.estate
 baseurl:          /
-
+category-base:	  /category
 paginate:         5
 
 # Custom vars

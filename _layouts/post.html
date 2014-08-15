@@ -18,12 +18,11 @@ layout: default
 </div>
 
 <div class="meta">
-   <span class="post-category">posted in:
-{% for category in site.categories %}
-<a href="/category/{{ category[0] }}">{{ category[0] }}</a>
-{% endfor %}
+  <span class="post-category">posted in:
+  <a title="View posts filed in category &quot;{{ page.categories }}&quot;" href="{{site.category-base}}/{{ page.categories }} "> {{ page.categories }} </a>
 </span>
-    <br/>
+
+<br/>
      <span class="post-tags">tags:</span>
       <i class="icon-tags"></i> {% for tag in page.tags %} <a href="/tag/{{ tag }}/"
        title="View posts tagged with &quot;{{ tag }}&quot;"><u>{{ tag }}</u></a>  {% if forloop.last != true %} {% endif %} {% endfor %}
