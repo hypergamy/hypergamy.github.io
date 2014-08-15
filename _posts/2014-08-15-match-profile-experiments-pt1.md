@@ -8,7 +8,7 @@ summary: Match, a playground for experiments
 ---
 
 _It's the real you_
-![](public/sample-match-profile-aug-2014.gif?raw=true)
+![](/public/sample-match-profile-aug-2014.gif?raw=true)
 {% comment %}
 img src http://cp.match.com/cppp/profile/images/21397_sp1_1.gif
 {% endcomment %}
