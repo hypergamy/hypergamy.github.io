@@ -16,7 +16,7 @@ img src http://cp.match.com/cppp/profile/images/21397_sp1_1.gif
 ## Introduction
 
 We all know that having a great in person presence and cold-calling is key to running proper game. I am a huge 
-proponet of getting out there and talking to women in as many different settings as you can put yourself in.  
+proponent of getting out there and talking to women in as many different settings as you can put yourself in.  
 
 But what about that online presence you've created for yourself? Have you really tried pushing things? For many men,
 their online presence, and there willingness to invest any amount of time into it is directly proportionate 
