@@ -19,7 +19,7 @@ We all know that having a great in person presence and cold-calling is key to ru
 proponent of getting out there and talking to women in as many different settings as you can put yourself in.  
 
 But what about that online presence you've created for yourself? Have you really tried pushing things? For many men,
-their online presence, and there willingness to invest any amount of time into it is directly proportionate 
+their online presence, and their willingness to invest any amount of time into it is directly proportionate 
 to the amount of women in their area or city. Once you break that down into women that you find "acceptable", 
 the SMP can seem to evaporate before your eyes. Fortunately I live in an area that has a large population, with 
 acceptable candidates. The beauty of any online experiments you may choose to run is that with Match 
