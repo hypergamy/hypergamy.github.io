@@ -13,6 +13,6 @@ According to the English Wikipedia, [Estates of the Realm](http://en.wikipedia.o
 > They are sometimes distinguished as the three estates: the clergy, the nobility, and commoners, and are often referred to by medieval 
 > ranking of importance (as the hierarchy was ordained by God) as the First, Second, and Third Estates respectively.  
 
-While Hypergamy.Estate has no interest in matters of religion or God, it's important to note that hierarchy has long been a part of many cultures throughout recarded history.
+While Hypergamy.Estate has no interest in matters of religion or God, it's important to note that hierarchy has long been a part of many cultures throughout recorded history.
 
 -- Rōnin
